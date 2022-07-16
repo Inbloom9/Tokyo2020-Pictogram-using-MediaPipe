@@ -1,6 +1,4 @@
-tensorflow==2.5.0
+pip
 opencv-python
-opencv-python-headless==4.5.5.62
-opencv-contrib-python-headless==4.5.5.62
 numpy
 mediapipe==0.8.6
