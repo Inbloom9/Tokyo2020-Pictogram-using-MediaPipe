@@ -1,6 +1,6 @@
 pip
 opencv-python
 opencv-python-headless
+opencv-contrib-python-headless==4.5.5.62
 numpy
 mediapipe==0.8.6
-libgl1
