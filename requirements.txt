@@ -1,4 +1,3 @@
 opencv-python 
 numpy
-mediapipe  
-utils
+mediapipe
